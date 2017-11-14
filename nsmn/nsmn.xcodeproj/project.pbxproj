@@ -15,6 +15,7 @@
 		06D14C851FBAE05C00E58EA6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 06D14C841FBAE05C00E58EA6 /* main.m */; };
 		06D14C8F1FBAE05C00E58EA6 /* nsmnTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 06D14C8E1FBAE05C00E58EA6 /* nsmnTests.m */; };
 		06D14C9A1FBAE05C00E58EA6 /* nsmnUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 06D14C991FBAE05C00E58EA6 /* nsmnUITests.m */; };
+		06D14CA91FBAE6A500E58EA6 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 06D14CA81FBAE6A500E58EA6 /* FirstViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		06D14C951FBAE05C00E58EA6 /* nsmnUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = nsmnUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		06D14C991FBAE05C00E58EA6 /* nsmnUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = nsmnUITests.m; sourceTree = "<group>"; };
 		06D14C9B1FBAE05C00E58EA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		06D14CA71FBAE6A500E58EA6 /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		06D14CA81FBAE6A500E58EA6 /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				06D14C761FBAE05C00E58EA6 /* AppDelegate.m */,
 				06D14C781FBAE05C00E58EA6 /* ViewController.h */,
 				06D14C791FBAE05C00E58EA6 /* ViewController.m */,
+				06D14CA71FBAE6A500E58EA6 /* FirstViewController.h */,
+				06D14CA81FBAE6A500E58EA6 /* FirstViewController.m */,
 				06D14C7B1FBAE05C00E58EA6 /* Main.storyboard */,
 				06D14C7E1FBAE05C00E58EA6 /* Assets.xcassets */,
 				06D14C801FBAE05C00E58EA6 /* LaunchScreen.storyboard */,
@@ -268,6 +273,7 @@
 				06D14C7A1FBAE05C00E58EA6 /* ViewController.m in Sources */,
 				06D14C851FBAE05C00E58EA6 /* main.m in Sources */,
 				06D14C771FBAE05C00E58EA6 /* AppDelegate.m in Sources */,
+				06D14CA91FBAE6A500E58EA6 /* FirstViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
