@@ -26,6 +26,7 @@ Pod::Spec.new do |s|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
 			用起来很好用的呀
+      点击里面的连接完成认证，之后你就可以完成提交。至此自己故障庆祝吧~~~
                    DESC
 
   s.homepage     = "https://github.com/KillingOML/nsmn"
