@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "nsmn"
   s.version      = "0.0.1"
-  s.summary      = "A short description of nsmn."
+  s.summary      = "my nsmn frame for the workers who will dev with this"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-			diudiudiu
+			用起来很好用的呀
                    DESC
 
   s.homepage     = "https://github.com/KillingOML/nsmn"
