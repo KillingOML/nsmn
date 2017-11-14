@@ -4,7 +4,7 @@
 
 Pod::Spec.new do |s|
     s.name         = 'nsmn'
-    s.version      = '0.0.1'
+    s.version      = '0.0.2'
     s.summary      = 'An easy way to use pull-to-refresh'
     s.homepage     = 'https://github.com/KillingOML/nsmn'
     s.license      = 'MIT'
